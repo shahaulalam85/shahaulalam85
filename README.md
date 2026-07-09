@@ -5,8 +5,6 @@
 
 ## 🚀 About Me
 
-🌱 Contributing to **CircuitVerse (GSoC 2026)** | Building FSM Visualizer | HTML5 Canvas + JavaScript
-
 💻 Interested in **Mathematics, Artificial Intelligence, System Design, and Computer Architecture**.
 
 📚 Learning **Advance Mathematics of Engineering, DSA in C++ and Java, Data Science and Full-Stack Web Development**
