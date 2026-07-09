@@ -81,7 +81,11 @@
 👉 https://
 
 ---
+## 🔥 GitHub Streak
 
+![](https://streak-stats.demolab.com?user=shahaulalam85&theme=tokyonight&hide_border=true)
+
+---
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20SHAHA%20UL%20ALAM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shaha-ul-alam-5a645b347/)
