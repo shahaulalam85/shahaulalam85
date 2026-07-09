@@ -104,9 +104,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahaulalam85&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahaulalam85&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahaulalam85&theme=tokyonight)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahaulalam85&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahaulalam85&theme=tokyonight&utcOffset=5.5)
 ---
