@@ -83,7 +83,9 @@
 ---
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=shahaulalam85&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shahaulalam85&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 ## 🤝 Connect With Me
