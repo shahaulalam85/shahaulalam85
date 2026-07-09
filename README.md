@@ -68,6 +68,11 @@
 </p>
 
 ---
+### 🔶 GeeksforGeeks
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/sahaulay1qn" />
+</p>
+
 
 ## 🌐 Portfolio
 
