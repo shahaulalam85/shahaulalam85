@@ -85,6 +85,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20SHAHA%20UL%20ALAM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shaha-ul-alam-5a645b347/)
+![](https://komarev.com/ghpvc/?username=shahaulalam85&color=blueviolet&style=for-the-badge)
 
 ---
 
