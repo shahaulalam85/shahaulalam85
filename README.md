@@ -110,8 +110,6 @@
 
 ## ⚡ Beyond Coding
 
-☕ Fueled by coffee and curiosity
-
 💻 Building scalable web applications and AI-powered solutions
 
 🧠 Passionate about Mathematics, Computer Architecture, and System Design
